@@ -24,6 +24,9 @@ img {
   /* max-width: 100%;
   height: auto; */
   border-radius: 0.675rem;
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 main {
@@ -38,7 +41,7 @@ main {
 
 h1{
     font-family: "Righteous", cursive;
-    font-size: 2.25rem;
+    font-size: 1.25rem;
     margin: 0.675rem 0;
 }
 p {
